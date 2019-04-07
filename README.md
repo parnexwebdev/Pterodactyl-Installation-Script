@@ -1,4 +1,4 @@
-# :eagle: pterodactyl-installer
+# pterodactyl-installer
 
 Scripts for installing Pterodactyl on both Panel & Daemon.
 
@@ -49,8 +49,8 @@ The script will guide you through the install.
 
 # Credits
 
-MrKaKisen
-Pterodactyl Team
-parnex
+`MrKaKisen`
+`Pterodactyl Team`
+`parnex`
 
 
